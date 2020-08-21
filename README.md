@@ -5,12 +5,12 @@ FH Campus Task (Mobile App Development)
 2. Follow the instructions on the console
 3. To restart a game you have to re-start the program
 
-**Game**
-You have to guess the numbers in the right order
-To make things even harder, the symbols don't match with the numbers. 
-It just indicate that one of those numbers is correct or not, but it doesn't excatly say which one
+## How to play
+* You have to guess the numbers in the right order
+* To make things even harder, the symbols don't match with the numbers. 
+* It just indicate that one of those numbers is correct or not, but it doesn't excatly say which one
 
-Symbols used in the game:
-✓ Number appears inside the four-digit number and it is on the correct position
-▢ Number appears inside the four-digit number, but on the wrong position
-X Number doesn't appear inside the four-digit number at all
+_Symbols used in the game_:
+* ✓ Number appears inside the four-digit number and it is on the correct position
+* ▢ Number appears inside the four-digit number, but on the wrong position
+* X Number doesn't appear inside the four-digit number at all
